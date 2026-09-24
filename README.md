@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 
 
 - 🌐Trabalho com edição de fotos
-- 🤓 Estou estudando Infraestrutura de redes / DevOps 
+- 🤓 Estudando Infraestrutura de redes / AWS / CLOUD 
 
